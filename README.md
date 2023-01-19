@@ -24,8 +24,7 @@ This repo may include:
    - <a href = "https://www.youtube.com/watch?v=u8JZ9gU5o4g&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa" > Gate Smashers <a>
    - <a href = "https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU" > Jenny's Lectures <a>
    
-4. ### Probability And Statistics
-   - <a href = "https://www.youtube.com/watch?v=J3KSjZFVbis&list=PLKQmjjQIEBd1dJe5z1sMKX9WUiTvACaKC">The Organic Chemistry Tutor <a>
+
    
 
 <hr>
