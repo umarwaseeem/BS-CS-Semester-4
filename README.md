@@ -2,13 +2,39 @@
 
 This repository consists of course materials used in `Semester 4` of Computer Science at <a href="https://www.nu.edu.pk/" > `Fast National University Of Computer And Emerging Sciences` <a>
 
-This may include:
+This repo may include:
 - Slides
 - Assignment Questions / Solutions
 - Quizes
 - Exams / Exams Solutions
 
+## Online Resources / Youtube Channels: 📕📺
+
+1. ### Database Systems
+   - <a href = "https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y" >Gate Smashers<a>
+   - <a href = "https://www.youtube.com/watch?v=69mi27O7_K4&list=PLse7tYZLxFQWgJzLzv0ncRUO6g-Ubh3aT" >Database By Dr. Ejaz Fast Official Channel<a> ⭐
+
+2. ### Operating System
+   - <a href = "https://www.youtube.com/watch?v=bkSWJJZNgf8&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p">Gate Smashers<a> ⭐
+   - <a href = "https://www.youtube.com/watch?v=RozoeWzT7IM&list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa">Jenny's Lectures<a>
+   - <a href = "https://www.youtube.com/watch?v=Yo2MASx_Kko&list=PLnd7R4Mcw3rLVqVWxTlC99FeDbzjJZO-F" >Dr. Nauman Fast Peshawar <a>
+
+3. ### Analysis Of Algorithms
+   - <a href = "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O" > Abdul Bari <a> ⭐
+   - <a href = "https://www.youtube.com/watch?v=u8JZ9gU5o4g&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa" > Gate Smashers <a>
+   - <a href = "https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU" > Jenny's Lectures <a>
+   
+4. ### Probability And Statistics
+   - <a href = "https://www.youtube.com/watch?v=J3KSjZFVbis&list=PLKQmjjQIEBd1dJe5z1sMKX9WUiTvACaKC">The Organic Chemistry Tutor <a>
+   
+
+<hr>
+
+
 Its possible that some stuff may be missing.
+
+
+<hr>
 
 ## How to contribute ? 🤔 
 
