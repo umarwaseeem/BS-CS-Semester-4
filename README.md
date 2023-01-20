@@ -23,8 +23,10 @@ This repo may include:
    - <a href = "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O" > Abdul Bari <a> ⭐
    - <a href = "https://www.youtube.com/watch?v=u8JZ9gU5o4g&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa" > Gate Smashers <a>
    - <a href = "https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU" > Jenny's Lectures <a>
-   
-
+   - <a href = "Design and analysis of Algorithms 
+https://youtu.be/r0f_Fgkn--A
+By Fazli  e  Basit sb Fast Peshawar
+Whole Playlist..Available.."> Fazil Basit <a>
    
 
 <hr>
